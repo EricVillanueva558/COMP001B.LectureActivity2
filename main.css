@@ -1,0 +1,24 @@
+/* Styling for the header */
+header {
+    background-color: #e3ee44; /* Green background */
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Styling for paragraph elements */
+p {
+    background-color: #f4f4f4; /* Light grey background */
+    border: 2px solid #ccc; /* Border around paragraphs */
+    padding: 10px;
+}
+
+/* Class for setting a fixed width for paragraphs */
+.fixed-width {
+    width: 300px;
+}
+
+/* Class for centering the paragraph */
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+}
